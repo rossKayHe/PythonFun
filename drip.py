@@ -1,6 +1,4 @@
-import pyautogui
-import time
-import random
+import pyautogui, time, random
 
 pyautogui.moveTo(873,8)
 pyautogui.click() 
