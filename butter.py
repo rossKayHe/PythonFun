@@ -1,4 +1,4 @@
-import pyautogui, time, winsound
+import pyautogui, time
 from random import randint
  # one
 px = pyautogui.pixel(1511,760)
